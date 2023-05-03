@@ -1,0 +1,74 @@
+
+body {
+    background-color: black;
+    font-family:'Roboto', sans-serif;
+}
+
+
+#cajaPrincipal{
+    margin: auto;
+    margin-top: 40px;
+    background-color:white;
+    width: 500px;
+    height: 600px;
+    
+
+}
+#caja1{
+    width: 500px;
+    height: 40px;
+}
+
+.interior1{
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+    
+
+} 
+.interior2{
+    position: relative;
+   left:50px;
+   bottom: 65px;
+    
+
+} 
+
+
+
+#icono1 {
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+
+#tresPuntos{
+    position: relative;
+    left: 470px;
+    bottom: 120px;
+    
+}
+
+#foto{
+
+    width: 500px;
+}
+
+#corazon,#nube,#avion{
+    margin: 8px;
+    
+}
+
+
+
+#etiqueta{
+    position: relative;
+    left: 300px;
+}
+.like{
+    margin-left: 10px
+}
+.texto{
+    position: relative;
+    margin: 10px;
+}
